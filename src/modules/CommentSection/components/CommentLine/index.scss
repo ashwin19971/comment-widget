@@ -1,0 +1,9 @@
+.comment-line-root {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    .action-btn {
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

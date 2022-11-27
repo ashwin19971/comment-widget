@@ -1,0 +1,1 @@
+export const getTime = () => (new Date()).toString().substring(0, 24);

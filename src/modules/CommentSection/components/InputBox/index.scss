@@ -1,0 +1,13 @@
+.input-box-root .input-box {
+    border: 0px;
+    width: 300px;
+    padding: 7px 0px;
+    margin-right: 5px;
+    cursor: pointer;
+    outline: none;
+    transition: all .5s;
+    border-bottom: 1px solid black;
+    &:hover {
+        border-bottom: 1px solid rgb(89, 32, 197);
+    }
+}

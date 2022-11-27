@@ -1,0 +1,74 @@
+body {
+  margin: 0 auto;
+  font-family: Nunito Sans;
+  max-width: 1440px;
+  padding: 20px;
+  transition: color .25s ease;
+}
+p {
+  margin: 0px;
+}
+
+.mr5 {
+  margin-right: 5px;
+}
+
+.mb5 {
+  margin-bottom: 5px;
+}
+
+.ml5 {
+  margin-left: 5px;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+.ml10 {
+  margin-left: 10px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.ml15 {
+  margin-left: 15px;
+}
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.red {
+  color: red; 
+}
+
+.blue {
+  color: #5e27c9;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.c-pointer {
+  cursor: pointer;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.d-none {
+  display: none;
+}
+
+.align-bottom {
+  vertical-align: bottom;
+}

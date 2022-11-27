@@ -1,0 +1,22 @@
+.btn-root {
+    padding: 7px 14px;
+    background-color: #5e27c9;
+    border: 1px solid #5e27c9;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 3px;
+    outline: none;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all .5s;
+    &:hover {
+        border: 1px solid #5e27c9;
+        color: #5e27c9;
+        background: white;
+    }
+    &:disabled {
+        opacity: 0.3;
+        cursor: default;
+        pointer-events: none;
+    }
+}
